@@ -59,12 +59,14 @@ pip install earthengine-api geopandas matplotlib pandas numpy
 
 Running the Notebook
 1. Clone this repository:
-git clone https://github.com/your-username/SpaceHACK-2025-Food-Insecurity.git
-cd SpaceHACK-2025-Food-Insecurity
+   
+    git clone https://github.com/your-username/SpaceHACK-2025-Food-Insecurity.git
+   
+    cd SpaceHACK-2025-Food-Insecurity
 
-2. Navigate to the notebooks folder.
+3. Navigate to the notebooks folder.
 
-3. Open the .ipynb file using Jupyter Notebook:
+4. Open the .ipynb file using Jupyter Notebook:
 
 
 📊 Datasets Used
