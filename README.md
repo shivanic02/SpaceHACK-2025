@@ -103,9 +103,6 @@ Gaurang Mohan
 
 Feel free to reach out for collaboration or further inquiries!
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 🌟 Acknowledgments
 We would like to thank:
 
