@@ -61,9 +61,7 @@ pip install earthengine-api geopandas matplotlib pandas numpy
 ## Running the Notebook:
 1. Clone this repository:
    ```
-    git clone https://github.com/your-username/SpaceHACK-2025-Food-Insecurity.git
-   
-    cd SpaceHACK-2025-Food-Insecurity
+    git clone https://github.com/shivanic02/SpaceHACK-2025
    ```
 
 3. Navigate to the notebooks folder.
