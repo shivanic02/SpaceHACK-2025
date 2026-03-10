@@ -1,10 +1,10 @@
 # SpaceHACK-2025
-🌍 Geospatial analysis project from SpaceHACK 2025 to address urban food insecurity in Phoenix, AZ. Leveraging satellite imagery and datasets (USDA, NASA, USGS), we identified urban agriculture sites and proposed scalable solutions like community gardens and farmers markets to enhance local food resilience. 🛰️
+Geospatial analysis project from SpaceHACK 2025 to address urban food insecurity in Phoenix, AZ. Leveraging satellite imagery and datasets (USDA, NASA, USGS), we identified urban agriculture sites and proposed scalable solutions like community gardens and farmers markets to enhance local food resilience. 🛰️
 
-🛰️ Project Overview
+Project Overview
 This repository contains the code and analysis developed during SpaceHACK 2025, where our team from Arizona State University tackled the challenge of addressing food insecurity in urban areas. Our innovative solution leveraged geospatial data and satellite imagery to identify potential urban agricultural spaces in Phoenix, Arizona, with the goal of strengthening local food resilience.
 
-🌟 Key Highlights
+Key Highlights
 - Mapped Urban Agriculture Sites: Identified potential spaces for urban agriculture, targeting 12% of food-insecure households in Phoenix.
 
 - Uncovered Gaps in Support: Found that 43% of food-insecure households are outside existing government support programs.
@@ -29,10 +29,10 @@ This repository contains the code and analysis developed during SpaceHACK 2025, 
         
 - Impact Potential: Demonstrated how these interventions could reduce dependency on food imports and enhance local food resilience.
 
-🏆 Achievements
+Achievements
 Our project was awarded the Runner-Up Prize at SpaceHACK 2025 for its innovative approach to tackling food insecurity through space-based technologies and geospatial analysis.
 
-🚀 How to Use This Repository
+How to Use This Repository
 
 Prerequisites
 To run the code in this repository, you will need:
@@ -69,7 +69,7 @@ Running the Notebook
 4. Open the .ipynb file using Jupyter Notebook:
 
 
-📊 Datasets Used
+Datasets Used
 The following datasets were utilized for this project:
 
 1. USDA Data: Food insecurity statistics and agricultural data.
@@ -80,7 +80,7 @@ The following datasets were utilized for this project:
 
 4. U.S. Census Data: Demographic and socioeconomic information.
 
-🌱 Proposed Solutions
+Proposed Solutions
 Our analysis identified key intervention strategies to address urban food insecurity:
 
 1. Establishing Community Gardens in underutilized urban spaces.
@@ -89,7 +89,7 @@ Our analysis identified key intervention strategies to address urban food insecu
 
 3. Creating Regenerative Urban Landscapes to enhance sustainability.
 
-🤝 Contributors
+Contributors
 
 Shivani Chauhan (Arizona State University)
 
@@ -103,7 +103,7 @@ Gaurang Mohan
 
 Feel free to reach out for collaboration or further inquiries!
 
-🌟 Acknowledgments
+Acknowledgments
 We would like to thank:
 
 SpaceHACK organizers for hosting this incredible event.
@@ -112,4 +112,4 @@ Google Earth Engine for providing tools for geospatial analysis.
 
 Arizona State University for supporting our participation.
 
-Let’s make a difference by enhancing food resilience through innovation! 🌍
+Let’s make a difference by enhancing food resilience through innovation!
